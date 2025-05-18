@@ -67,6 +67,7 @@ numpy
 insightface
 PyQt5
 onnxruntime-gpu
+解压目录中inswapper_128.onnx到项目目录中
 ```
 
 ---
