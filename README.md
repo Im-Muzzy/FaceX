@@ -15,7 +15,27 @@ FaceX 是一个基于 Python 和 PyQt5 开发的实时换脸应用程序，利�
 - 人脸参数微调（FaceX 2.0版本） 🔧
 - GPU 加速支持 ⚡
 
+
 ---
+
+## 📸  换脸结果展示
+
+为了让使用者清楚看到 FaceX 的换脸效果，以下是不同场景下的换脸前后对比。
+
+### 🎞️ 视频换脸动图演示
+- FaceX1.0
+
+<p align="center">
+  <img src="https://github.com/Im-Muzzy/Im-Muzzy/blob/main/images/changeFaceResult.gif" alt="实时换脸动图" width="600"/>
+</p>
+
+- FaceX2.0
+<p align="center">
+  <img src="https://github.com/Im-Muzzy/FaceX/blob/main/results/FaceX2.0Results.gif" alt="实时换脸动图" width="600"/>
+</p>
+
+---
+
 
 ## 版本对比 🆚
 
@@ -31,55 +51,6 @@ FaceX 是一个基于 Python 和 PyQt5 开发的实时换脸应用程序，利�
 - 添加人脸平滑处理
 - 增加面部参数微调功能
 - 优化的用户界面和提示信息
-
----
-# 📸 展示模块
-
-为了更直观地展示 FaceX 的功能与改进，我们提供了 **图形界面截图** 和 **换脸效果对比**。
-
----
-
-## 🧩 界面展示
-
-### 💻 FaceX 1.0 界面（基础版）
-
-![FaceX 1.0 界面](https://yourimagehosting.com/path/to/FaceX1.0_ui.png)
-
-📌 特点：
-- 简洁明了的操作面板
-- 支持摄像头实时换脸
-- 内置预设人脸模板
-- 基础截图与录屏功能
-
----
-
-### 🚀 FaceX 2.0 界面（增强版）
-
-![FaceX 2.0 界面](https://yourimagehosting.com/path/to/FaceX2.0_ui.png)
-
-📌 升级亮点：
-- 新增面部参数滑动条，支持微调
-- 更流畅的界面交互体验
-- 更清晰的状态提示信息
-- 支持 GPU 加速状态显示
-
----
-
-## 🎭 换脸结果展示
-
-为了让使用者清楚看到 FaceX 的换脸效果，以下是不同场景下的换脸前后对比。
-
-### 🎞️ 视频换脸动图演示
--FaceX1.0
-
-<p align="center">
-  <img src="https://github.com/Im-Muzzy/Im-Muzzy/blob/main/images/changeFaceResult.gif" alt="实时换脸动图" width="600"/>
-</p>
-
--FaceX2.0
-<p align="center">
-  <img src="https://yourimagehosting.com/path/to/faceswap-demo.gif" alt="实时换脸动图" width="600"/>
-</p>
 ---
 
 ## 安装要求 🛠️
