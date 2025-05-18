@@ -26,7 +26,7 @@ FaceX 是一个基于 Python 和 PyQt5 开发的实时换脸应用程序，利�
 - FaceX1.0
 
 <p align="center">
-  <img src="https://github.com/Im-Muzzy/Im-Muzzy/blob/main/images/changeFaceResult.gif" alt="实时换脸动图" width="600"/>
+  <img src="https://github.com/Im-Muzzy/FaceX/blob/main/results/FaceX1.0Results.gif" alt="实时换脸动图" width="600"/>
 </p>
 
 - FaceX2.0
